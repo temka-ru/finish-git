@@ -18,4 +18,4 @@
 
 
 еще ссылка на сайт
-![](https://temka-ru.github.io/MQ-diploma/)
+[еще сайт](https://temka-ru.github.io/MQ-diploma/)
